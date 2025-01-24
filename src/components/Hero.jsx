@@ -1,6 +1,6 @@
-import profilePic from "../assets/raviKumarProfile.webp"
+import profilePic from "../assets/1.jpg"
 import { HERO_CONTENT } from "../constants"
-import { motion, stagger } from "framer-motion"
+import { motion } from "framer-motion"
 
 const containerVariants = {
     hidden: {opacity: 0, x: -100},
@@ -27,8 +27,8 @@ const Hero = () => {
                         src={profilePic}   
                         alt="Shashi Vardhan" 
                         className="border border-stone-500 rounded-3xl"
-                        width={650}
-                        height={650}
+                        width={450}
+                        height={400}
                         initial={{ x:100, opacity:0 }}
                         animate={{ x:0, opacity:1 }}
                         transition={{ duration: 1, delay: 0.5 }} 
