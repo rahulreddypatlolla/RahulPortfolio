@@ -3,6 +3,7 @@ import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
 import Projects from "./components/Projects"
 import Technologies from "./components/Technologies"
+import Certifications from "./constants/Certifications"
 
 const App = () => {
   return (

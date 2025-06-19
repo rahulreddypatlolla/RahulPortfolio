@@ -9,19 +9,19 @@ const Navbar = () => {
             </a>
         </div>  
         <div className="m-12 flex items-center justify-center gap-4 text4xl">
-            <a href="www.linkedin.com/in/shashi-vardhan-a22358343"
+            <a href="https://www.linkedin.com/in/rahul-reddy-patlolla-437962342"
                 target='_blank'
                 rel='noopener noreferrer'
                 aria-label='LinkedIn'>
                     <FaLinkedin />
             </a>
-            <a href="github.com/shashiv367"
+            <a href="https://github.com/rahulreddypatlolla"
                 target='_blank'
                 rel='noopener noreferrer'
                 aria-label='GitHub'>
                     <FaGithub />
             </a>
-            <a href="vardhans367@gmail.com"
+            <a href="rahulreddyp1505@gmail.com"
                 target='_blank'
                 rel='noopener noreferrer'
                 aria-label='Gmail'>
