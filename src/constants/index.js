@@ -32,7 +32,7 @@ export const CERTIFICATIONS = [
 
 export const PROJECTS = [
   {
-    title: "Seed To Plate",
+    title: "Farm Fresh",
     image: project1,
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
